@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+  </url><url>
+    <loc>https://example.org/bookkeeping/</loc>
+  </url><url>
+    <loc>https://example.org/contact/</loc>
+  </url><url>
+    <loc>https://example.org/payroll/</loc>
+  </url><url>
+    <loc>https://example.org/services/</loc>
+  </url><url>
+    <loc>https://example.org/software-migration/</loc>
+  </url><url>
+    <loc>https://example.org/software-training/</loc>
+  </url><url>
+    <loc>https://example.org/subcontracting/</loc>
+  </url><url>
+    <loc>https://example.org/testimonials/</loc>
+  </url><url>
+    <loc>https://example.org/vat-returns/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+</urlset>
